@@ -4,12 +4,43 @@ This project was bootstrapped with [Vite React App](https://vite.dev/guide/).
 
 ## Table of Contents
 
+- [Requirements](#Requirements)
 - [Starting Setup Steps](#starting-setup-steps)
 - [Available Scripts](#available-scripts)
   - [npm run dev](#npm-run-dev)
   - [npm run lint](#npm-run-lint)
   - [npm run build](#npm-run-build)
   - [npm run preview](#npm-run-preview)
+ 
+## Requirements
+
+Before you begin, you will need **Node.js** and **Yarn** installed on your system.
+
+### Node.js Installation
+
+- **Windows**: Download and install from the [Node.js website](https://nodejs.org/).
+- **Ubuntu**: Run the following commands:
+
+  ```bash
+  $ sudo apt install nodejs
+  $ sudo apt install npm
+  ```
+
+To check if Node.js and npm are installed, run:
+
+```bash
+$ node --version
+$ npm --version
+```
+
+### Yarn Installation
+
+After installing Node.js, you also need **Yarn**. Install it globally with:
+
+```bash
+$ npm install -g yarn
+```
+
 
 ## Starting Setup Steps
 
